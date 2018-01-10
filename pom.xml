@@ -9,9 +9,9 @@
 	<description>The Mustang project is a java library to read and write ZUGFeRD meta data inside your invoice PDFs</description>
 	<url>http://www.mustangproject.org/</url>
 	<scm>
-		<connection>scm:git:https://github.com/ZUGFeRD/mustangproject.git</connection>
-		<developerConnection>scm:git:https://github.com/ZUGFeRD/mustangproject.git</developerConnection>
-		<url>https://github.com/ZUGFeRD/mustangproject</url>
+		<connection>scm:git:https://github.com/mksplg/mustangproject.git</connection>
+		<developerConnection>scm:git:ssh://github.com/mksplg/mustangproject.git</developerConnection>
+		<url>https://github.com/mksplg/mustangproject</url>
 		<tag>mustang-1.5.0</tag>
 	</scm>
 	<repositories>
@@ -41,6 +41,7 @@
 		<maven.compiler.compilerVersion>1.7</maven.compiler.compilerVersion>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
+		<project.scm.id>github</project.scm.id>
 	</properties>
 	<dependencies>
 
@@ -142,7 +143,7 @@
 					<merge>true</merge>
 					<repositoryName>mustangproject</repositoryName>
 					<!-- github repo name -->
-					<repositoryOwner>ZUGFeRD</repositoryOwner>
+					<repositoryOwner>mksplg</repositoryOwner>
 					<!-- github username -->
 				</configuration>
 				<executions>
