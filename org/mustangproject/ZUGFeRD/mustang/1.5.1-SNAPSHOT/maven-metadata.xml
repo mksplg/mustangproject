@@ -5,32 +5,26 @@
   <version>1.5.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180106.164054</timestamp>
+      <timestamp>20180110.162052</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180106164054</lastUpdated>
+    <lastUpdated>20180110162052</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.5.1-20180106.164054-1</value>
-        <updated>20180106164054</updated>
+        <value>1.5.1-20180110.162052-1</value>
+        <updated>20180110162052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.5.1-20180106.164054-1</value>
-        <updated>20180106164054</updated>
+        <value>1.5.1-20180110.162052-1</value>
+        <updated>20180110162052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.5.1-20180106.164054-1</value>
-        <updated>20180106164054</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>1.5.1-20180106.164054-1</value>
-        <updated>20180106164054</updated>
+        <value>1.5.1-20180110.162052-1</value>
+        <updated>20180110162052</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
